@@ -1,0 +1,4 @@
+terraform {
+  backend "s3" {
+   bucket= 'project-mario-bros-bucket" #Replace with your actual s3 bucket name
+   key 
